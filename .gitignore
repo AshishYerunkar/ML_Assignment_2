@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+README_backup_corrupted.md
+model/train_models_step3_backup.py
+spambase.zip
+.DS_Store
