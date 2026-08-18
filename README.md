@@ -77,12 +77,12 @@ The supplied `test_data.csv` contains the 921 held-out observations used for fin
 
 ## 3. GitHub Repository Link
 
-**GitHub Repository:** To be added after repository creation.
+**GitHub Repository:** https://github.com/AshishYerunkar/ML_Assignment_2
 
 
 ## 4. Live Streamlit Application
 
-**Streamlit Application:** To be added after deployment.
+**Streamlit Application:** https://mlassignment2-umelnlsmcljhdqrcupayxz.streamlit.app/
 
 
 ## 5. Models Used and Performance Comparison
